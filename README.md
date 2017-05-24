@@ -2,6 +2,6 @@
 Repositório referente ao trabalho da disciplina de Trabalho Cooperativo Baseado em Computadores.
 Os trabalhos serão referentes às ferramentas utilizadas no Npds.
 São elas:
-  GitLab
-  GitHub
-  Jenkins
+  GitLab: https://about.gitlab.com/
+  GitHub: https://github.com/ 
+  Jenkins: https://jenkins.io/
