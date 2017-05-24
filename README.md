@@ -7,4 +7,4 @@ Os trabalhos serão referentes às ferramentas utilizadas no Npds.
   * [GitHub](https://github.com/)
   * [Jenkins](https://jenkins.io/)
  
-Outras ferramentas ainda poderão ser definidas
+*Outras ferramentas ainda poderão ser definidas
